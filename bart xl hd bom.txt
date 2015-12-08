@@ -19,18 +19,20 @@ Rods
 
 2 x M8 x 320 mm smooth rod, (320 mm will work also)
 
-4 x M8 x 370 mm smooth rod 
+2 x M8 x 370 mm smooth rod 
+
+2 x M10 x 511 mm smooth rod 
 
 Bearings
 
-11 x LM8UU linear bearings
- 3 x 624ZZ bearings
+4 x LM10UU linear bearings
+7 x LM8UU linear bearings
+3 x 624ZZ bearings
 
 
 Printed Parts
 
-3 x Y clips
-1 x Y endstop bracket
+4 x Y clips
 1 x Y motor bracket
 
 1 x X carriage
@@ -65,8 +67,8 @@ Misc Hardware
 
 Fasteners  (totals rounded up from final prototype, shcs count not exact)
 
-40 x 6-32 square nut, frame
-40 x 6-32 x 5/8" pan head machine screws, frame
+50 x 6-32 square nut, frame
+50 x 6-32 x 5/8" pan head machine screws, frame
 4 x 6-32 x 1/2" pan head machine screws, frame
 4 x #6 flat washer, frame
 
@@ -99,16 +101,16 @@ Fasteners  (totals rounded up from final prototype, shcs count not exact)
 
 Electronics
 
-1 x RAMPS with Arduino compatible board
-5 x Stepstick A4988 drivers
+1 x Mini Rambo control board
+
 
 1 x 40x40x10 12 volt axial fan
 
 5 x NEMA 17 stepper motors, recommend 76 oz/in holding torque
 
-1 x 350 watt, 12 volt PSU
+1 x 400 watt, 24 volt PSU
 
-1 x MK2A heated bed
+1 x kapton tape heating pad
 
 
 
