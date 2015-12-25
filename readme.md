@@ -35,6 +35,8 @@ Commons Atribution-Sharealike, no version stated.
 Marlin firmware (https://github.com/MarlinFirmware/Marlin) from Erik van
 der Zalm licensed under GPL, no version stated.
 
+This version of Marlin from Prusa Research, Josef Prusa with a config specific for Roaddog Bart Pro XL
+
 The original direct drive extruder for Wilson/i3
 (http://www.thingiverse.com/thing:501755) from mrice licensed under
 Creative Commons Attribution- Share Alike license, no version stated.
