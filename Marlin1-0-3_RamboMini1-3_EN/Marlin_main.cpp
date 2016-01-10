@@ -3443,7 +3443,7 @@ Sigma_Exit:
     }
     break;
 #endif
-
+/* removed FILAMENT_SENSOR vegasloki 12-25-15
 #ifdef FILAMENT_SENSOR
 case 404:  //M404 Enter the nominal filament width (3mm, 1.75mm ) N<3.0> or display nominal filament width 
     {
@@ -3570,7 +3570,10 @@ case 404:  //M404 Enter the nominal filament width (3mm, 1.75mm ) N<3.0> or disp
       break;
     }
     #endif // CUSTOM_M_CODE_SET_Z_PROBE_OFFSET
+    */
 
+   /* removed FILAMENTCHANGEENABLE by vegasloki 12/25/15
+   
     #ifdef FILAMENTCHANGEENABLE
     case 600: //Pause for filament change X[pos] Y[pos] Z[relative lift] E[initial retract] L[later retract distance for removal]
     {
@@ -3771,6 +3774,8 @@ case 404:  //M404 Enter the nominal filament width (3mm, 1.75mm ) N<3.0> or disp
         */
         //current_position[E_AXIS]=target[E_AXIS]; //the long retract of L is compensated by manual filament feeding
         //plan_set_e_position(current_position[E_AXIS]);
+        
+        /*
         plan_buffer_line(target[X_AXIS], target[Y_AXIS], target[Z_AXIS], target[E_AXIS], 70, active_extruder); //should do nothing
         plan_buffer_line(lastpos[X_AXIS], lastpos[Y_AXIS], target[Z_AXIS], target[E_AXIS], 70, active_extruder); //move xy back
         plan_buffer_line(lastpos[X_AXIS], lastpos[Y_AXIS], lastpos[Z_AXIS], target[E_AXIS], 200, active_extruder); //move z back
@@ -3797,6 +3802,8 @@ case 404:  //M404 Enter the nominal filament width (3mm, 1.75mm ) N<3.0> or disp
     }
     break;
     #endif //FILAMENTCHANGEENABLE
+    */
+    
     #ifdef DUAL_X_CARRIAGE
     case 605: // Set dual x-carriage movement mode:
               //    M605 S0: Full control mode. The slicer has full control over x-carriage movement

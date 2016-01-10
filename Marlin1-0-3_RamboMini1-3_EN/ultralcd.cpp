@@ -468,7 +468,7 @@ static void lcd_support_menu()
     END_MENU();
 }
 
-void lcd_unLoadFilament()
+/*void lcd_unLoadFilament()
 {
   
   if(degHotend0() > EXTRUDE_MINTEMP){
@@ -717,7 +717,7 @@ void lcd_LoadFilament()
 
   lcd_return_to_status();
 }
-
+*/
 static void lcd_move_menu_1mm()
 {
     move_menu_scale = 1.0;
@@ -867,8 +867,8 @@ if (IS_SD_PRINTING)
         
     }else{
       
-        MENU_ITEM(function, MSG_LOAD_FILAMENT, lcd_LoadFilament);
-        MENU_ITEM(function, MSG_UNLOAD_FILAMENT, lcd_unLoadFilament);  
+       // MENU_ITEM(function, MSG_LOAD_FILAMENT, lcd_LoadFilament);
+        //MENU_ITEM(function, MSG_UNLOAD_FILAMENT, lcd_unLoadFilament);  
       
         MENU_ITEM(submenu, MSG_SETTINGS, lcd_settings_menu);
         
