@@ -1,4 +1,4 @@
-This is a Roaddog Bart XL HD. This machine is a larger build based on a mashup
+This is a Roaddog Bart XL. This machine is a larger build based on a mashup
 implemented from several designs including original designs.  Original
 designs from Roaddog Labs Ltd are released per the Open Source Hardware
 Association guidelines for open source hardware at
@@ -35,11 +35,7 @@ Commons Atribution-Sharealike, no version stated.
 Marlin firmware (https://github.com/MarlinFirmware/Marlin) from Erik van
 der Zalm licensed under GPL, no version stated.
 
-This version of Marlin from Prusa Research, Josef Prusa with a config specific for Roaddog Bart Pro XL
 
 The original direct drive extruder for Wilson/i3
 (http://www.thingiverse.com/thing:501755) from mrice licensed under
 Creative Commons Attribution- Share Alike license, no version stated.
-
-Z coupler from Yet Another Prusa Mendel Z Coupling, by Nophead licensed under GPL, no version stated.
-http://www.thingiverse.com/thing:9622
