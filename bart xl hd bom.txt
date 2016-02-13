@@ -17,9 +17,9 @@ Rods
 
 2 x M5-.8 x 300 mm threaded rod, Z axis lead screws
 
-2 x M8 x 320 mm smooth rod, (320 mm will work also)
+2 x M8 x 318 mm smooth rod, (320 mm will work also)
 
-2 x M8 x 370 mm smooth rod 
+2 x M8 x 368 mm smooth rod 
 
 2 x M10 x 511 mm smooth rod 
 
@@ -34,6 +34,7 @@ Printed Parts
 
 4 x Y clips
 1 x Y motor bracket
+4 x Y bearing mounts (each mount is two pieces)
 
 1 x X carriage
 1 x x endstop block
