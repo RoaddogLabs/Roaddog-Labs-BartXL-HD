@@ -383,7 +383,7 @@ const bool Z_MIN_PROBE_ENDSTOP_INVERTING = true; // set to true to invert the lo
 
 // @section extruder
 
-#define INVERT_E0_DIR false   // Bart MK7 direct drive motor on left set to false, motor on right set to true
+#define INVERT_E0_DIR false   // Bart MK7 direct drive motor on left set to false, motor on right set to true, Gregs Wades set to false
 #define INVERT_E1_DIR false    // Bart MK7 direct drive motor on left set to false, motor on right set to true
 #define INVERT_E2_DIR false   // not used for Bart
 
@@ -595,7 +595,8 @@ const bool Z_MIN_PROBE_ENDSTOP_INVERTING = true; // set to true to invert the lo
 
 // default settings
 
-#define DEFAULT_AXIS_STEPS_PER_UNIT   {80,80,4000,95}  // default steps per unit for Bart Pro XL
+//#define DEFAULT_AXIS_STEPS_PER_UNIT   {80,80,4000,98}  // default steps per unit for Bart Pro XL Bart direct drive extruder
+#define DEFAULT_AXIS_STEPS_PER_UNIT   {80,80,4000,455}  // default steps per unit for Bart Pro XL Gregs Wades geared extruder
 #define DEFAULT_MAX_FEEDRATE          {300, 300, 2, 25}    // (mm/sec)
 #define DEFAULT_MAX_ACCELERATION      {3000,3000,10,10000}    // X, Y, Z, E maximum start speed for accelerated moves. E default values are good for Skeinforge 40+, for older versions raise them a lot.
 
