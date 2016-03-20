@@ -27,7 +27,7 @@ Here are some standard links for getting your machine calibrated:
 //===========================================================================
 // For a Delta printer replace the configuration files with the files in the
 // example_configurations/delta directory.
-//
+
 
 //===========================================================================
 //============================= SCARA Printer ===============================
