@@ -13,6 +13,8 @@ and works well, it's still very much a work in progress.  A set of pre release d
 
 Pull requests are welcome and encouraged.
 
+
+####License and Credits
 Material specific to the Bart components and documentation that is not
 derived from other sources are released under the Creative Commons
 Attribution 4.0 International license.
