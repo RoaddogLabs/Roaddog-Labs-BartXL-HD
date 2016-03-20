@@ -1,9 +1,17 @@
-This is a Roaddog Bart XL. This machine is a larger build based on a mashup
-implemented from several designs including original designs.  Original
-designs from Roaddog Labs Ltd are released per the Open Source Hardware
-Association guidelines for open source hardware at
+## Roaddog Labs Bart Pro XL
+## 
+This is a Roaddog Bart XL 3D printer. This machine is a larger build
+based on a mashup implemented from several designs including original
+designs.  Original designs from Roaddog Labs Ltd are released per the
+Open Source Hardware Association guidelines for open source hardware at
 http://www.oshwa.org/definition/.
 
+### This is a pre release version
+### 
+The current version is a pre release.  While the machine is functional
+and works well, it's still very much a work in progress.  A set of pre release docs are at http://roaddoglabs.io/wiki/Roaddog_Labs_Bart_Pro_XL
+
+Pull requests are welcome and encouraged.
 
 Material specific to the Bart components and documentation that is not
 derived from other sources are released under the Creative Commons
