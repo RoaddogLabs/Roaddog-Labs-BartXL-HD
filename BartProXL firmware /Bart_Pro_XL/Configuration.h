@@ -211,14 +211,14 @@ Here are some standard links for getting your machine calibrated:
   
   // E3D v6 Lite w/ 24 v heater element
     
-    #define  DEFAULT_Kp 30.9
-    #define  DEFAULT_Ki 1.96  
-    #define  DEFAULT_Kd 121.49  
+ //   #define  DEFAULT_Kp 30.9
+ //   #define  DEFAULT_Ki 1.96  
+ //   #define  DEFAULT_Kd 121.49  
     
     //e3d
-//	#define  DEFAULT_Kp 15.8
-//    #define  DEFAULT_Ki 1.08
-//    #define  DEFAULT_Kd 120
+	#define  DEFAULT_Kp 15.8
+    #define  DEFAULT_Ki 1.08
+    #define  DEFAULT_Kd 120
   
   // Ultimaker
   //#define  DEFAULT_Kp 22.2
@@ -506,7 +506,7 @@ const bool Z_MIN_PROBE_ENDSTOP_INVERTING = false; // set to true to invert the l
   // X and Y offsets must be integers.
   #define X_PROBE_OFFSET_FROM_EXTRUDER  22     // Z probe to nozzle X offset: -left  +right
   #define Y_PROBE_OFFSET_FROM_EXTRUDER  0     // Z probe to nozzle Y offset: -front +behind
-  #define Z_PROBE_OFFSET_FROM_EXTRUDER  -1.4  // Z probe to nozzle Z offset: -below (always!)
+  #define Z_PROBE_OFFSET_FROM_EXTRUDER  -.8  // Z probe to nozzle Z offset: -below (always!)
 
   #define Z_RAISE_BEFORE_HOMING 4       // (in mm) Raise Z axis before homing (G28) for Z probe clearance.
                                         // Be sure you have this distance over your Z_MAX_POS in case.
