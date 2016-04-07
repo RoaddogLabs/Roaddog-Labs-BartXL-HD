@@ -100,12 +100,13 @@
 #define MOTOR_CURRENT_PWM_E_PIN  44
 //Motor current PWM conversion, PWM value = MotorCurrentSetting * 255 / range
 #define MOTOR_CURRENT_PWM_RANGE 2000
-#define DEFAULT_PWM_MOTOR_CURRENT  {1300, 1300, 1250}
+//#define DEFAULT_PWM_MOTOR_CURRENT  {1300, 1300, 1250}
+#define DEFAULT_PWM_MOTOR_CURRENT  {900, 900, 850}
 #define SDPOWER             -1
 #define SDSS                53
 #define LED_PIN             13
 #define FAN_PIN              8
-#define FAN_1_PIN            6
+#define FAN_1_PIN           -1   //turned off for auto extruder fan 
 #define PS_ON_PIN           -1
 #define KILL_PIN            -1  // 80 with Smart Controller LCD
 #define SUICIDE_PIN         -1  // PIN that has to be turned on right after start, to keep power flowing.
