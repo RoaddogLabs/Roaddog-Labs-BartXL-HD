@@ -2,7 +2,7 @@
 
 - [x] validate Titan mounts
 
-     -[ ] print titan mount prototypes
+     - [ ] print titan mount prototypes
      
      
 - [] remove m8 X axis parts from default branch
