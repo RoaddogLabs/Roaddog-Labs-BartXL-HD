@@ -9,6 +9,8 @@
 - [ ] remove m8 X axis parts from default branch
 
 - [x] fix thermal runaway false trigger on bed #38
+     - [x] removed trigger
+     - [ ] fully fix runaway issue
 - [ ] resolve #42 #43
 
 
