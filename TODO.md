@@ -2,10 +2,13 @@
 
 - [x] validate Titan mounts
 
-     - [ ] print titan mount prototypes
+     - [x] print titan mount prototypes
+     - [ ] test titan mounts
      
      
-- [] remove m8 X axis parts from default branch
+- [ ] remove m8 X axis parts from default branch
 
-- [] fix thermal runaway false trigger on bed #38
+- [x] fix thermal runaway false trigger on bed #38
+- [ ] resolve #42 #43
+
 
