@@ -24,82 +24,20 @@ Pull requests are welcome and encouraged.
 | Filament Diameter | 1.75 |
 | Max Printing Temp | 248&#176; C with E3D Lite v6; 300&#176; C with E3D full v6 with thermistor, 400&#176; C with optional thermocouple |
 | Compatible Materials | With E3D v6, any printable material to 400&#176; C with E3D v6 and thermocouple.  With E3D Lite v6 more than 15 types including PLA, ABS, Laywoo-D, HIPS, carbon fiber reinforced PLA, flexible filament, conductive PLA |
-
-</div>
-
-<div class="row display">
-  <div class="large-3 columns">Nozzle Size</div>
-  <div class="large-8 columns">.4 mm standard, user upgradable to a variety of sizes</div>
-  
-</div>
-
-<div class="row display">
-  <div class="large-3 columns">Heated Bed</div>
-  <div class="large-8 columns">Polyimide heater, 24 volt with aluminum heat spreader</div>
-
-</div>
-
-<div class="row display">
-  <div class="large-3 columns">Print Surface</div>
-  <div class="large-8 columns">0.125" 6061-T6 aluminum</div>
-
-</div>
-
-<div class="row display">
-  <div class="large-3 columns">Extruder</div>
-  <div class="large-8 columns">Bart Direct Drive MK7, low profile, reduced weight and mass</div>
-
-</div>
-
-<div class="row display">
-  <div class="large-3 columns">Bed Tilt Compensation</div>
-  <div class="large-8 columns">Belt tilt compensation, also called auto bed leveling or tramming via an inductive sensor</div>
-
-</div>
-
-<div class="row display">
-  <div class="large-3 columns">Electronics</div>
-  <div class="large-8 columns">Mini Rambo configured for Bart Pro XL with Marlin  firmware</div>
- 
-</div>
-
-<div class="row display">
-  <div class="large-3 columns">Power Supply</div>
-  <div class="large-8 columns">24 volts, 400 watts compact form factor</div>
-
-</div>
-
-<div class="row display">
-  <div class="large-3 columns">X Axis Motion</div>
-  <div class="large-8 columns">GT2 belt and pulley;  10 mm precision  bearings and chromed, hardened rods</div>
-</div>
-
-<div class="row display">
-  <div class="large-3 columns">Y Axis Motion</div>
-  <div class="large-8 columns">GT2 belt and pulley;  10 mm precision  bearings and chromed, hardened rods</div>
-</div>
-
-<div class="row display">
-  <div class="large-3 columns">Z Axis Motion</div>
-  <div class="large-8 columns">TR8 precision lead screw and nut; 10 mm precision bearings and chromed, hardened rods</div>
-</div>
-
-<div class="row display">
-  <div class="large-3 columns">Average Speeds</div>
-  <div class="large-8 columns">100 mm/s (stock extruder, perimeters based on average tune)</div>
-</div>
-
-<div class="row display">
-  <div class="large-3 columns">Machine Footprint</div>
-  <div class="large-8 columns">512 mm x 470 mm x 400 mm </div>
-</div>
-
-<div class="row display">
-  <div class="large-3 columns">Display/SD Card Reader</div>
-  <div class="large-8 columns">Full graphic LCD display and SD card reader for standalone operation</div>
-</div>
-
-
+| Nozzle Size | .4 mm standard, user upgradable to a variety of sizes |
+| Heated Bed | Polyimide heater, 24 volt with aluminum heat spreader |
+| Print Surface |0.125" 6061-T6 aluminum |
+| Extruder | Bart Direct Drive MK7, low profile, reduced weight and mass |
+| Bed Tilt Compensation | Belt tilt compensation, also called auto bed leveling or tramming via an inductive sensor |
+|Electronics | Mini Rambo configured for Bart Pro XL with Marlin firmware |
+| Power Supply | 24 volts, 400 watts compact form factor |
+| X Axis Motion | GT2 belt and pulley;  10 mm precision  bearings and chromed, hardened rods |
+| Y Axis Motion | GT2 belt and pulley;  10 mm precision  bearings and chromed, hardened rods |
+| Z Axis Motion | TR8 precision lead screw and nut; 10 mm precision bearings and chromed, hardened rods |
+| Average Speeds | 100 mm/s (stock extruder, perimeters based on average tune) |
+| Machine Footprint | 512 mm x 470 mm x 400 mm |
+| Display/SD Card Reader | Full graphic LCD display and SD card reader for standalone operation |
+| Optional Wireless and Print Server | User installed optional printing over Wifi and dedicated print server using Octoprint and a Raspberry Pi |
 
 ####License and Credits
 Material specific to the Bart components and documentation that is not
