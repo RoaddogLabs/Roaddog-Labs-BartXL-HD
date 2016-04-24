@@ -12,5 +12,7 @@
      - [x] removed trigger
      - [ ] fully fix runaway issue
 - [ ] resolve #42 #43
+- 
+- [ ] print and validate latest 2nd gen extruder
 
 
