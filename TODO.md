@@ -14,5 +14,6 @@
 - [ ] resolve #42 #43
 
 - [ ] print and validate latest 2nd gen extruder
+- [ ] set extruder body flat on bed for printing
 
 
