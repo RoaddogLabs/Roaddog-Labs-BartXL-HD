@@ -19,36 +19,11 @@ Pull requests are welcome and encouraged.
 | Feature | Bart Pro XL |
 |---------|-------------|
 | Base and Frame | Full melamine frame, printed parts, latest design for maximum stability and print speeds |
- 
-
-
-<div class="row display">
-  <div class="large-3 columns">Build Envelope</div>
-  <div class="large-8 columns">360 mm x 240 mm x 200 mm</div>
-  
-</div>
-
-<div class="row display">
-  <div class="large-3 columns">Resolution (layer thickness)</div>
-  <div class="large-8 columns">low res .3 mm; normal res .2 mm; hi res .1 mm; extra hi res .06 mm </div>
-
-</div>
-
-<div class="row display">
-  <div class="large-3 columns">Filament Diameter</div>
-  <div class="large-8 columns"> 1.75mm </div>
-
-</div>
-
-<div class="row display">
-  <div class="large-3 columns">Max Printing Temp</div>
-  <div class="large-8 columns"> 248&#176; C with E3D Lite v6; 300&#176; C with E3D full v6 with thermistor, 400&#176; C with optional thermocouple</div>
-
-</div>
-
-<div class="row display">
-  <div class="large-3 columns">Compatible Materials</div>
-  <div class="large-8 columns">With E3D v6, any printable material to 400&#176; C with E3D v6 and thermocouple.  With E3D Lite v6 more than 15 types including PLA, ABS, Laywoo-D, HIPS, carbon fiber reinforced PLA, flexible filament, conductive PLA </div>
+| Build Envelope | 360 mm x 240 mm x 200 mm |
+| Resolution (printable layer thickness) | low res .3 mm; normal res .2 mm; hi res .1 mm; extra hi res .06 mm |
+| Filament Diameter | 1.75 |
+| Max Printing Temp | 248&#176; C with E3D Lite v6; 300&#176; C with E3D full v6 with thermistor, 400&#176; C with optional thermocouple |
+| Compatible Materials | With E3D v6, any printable material to 400&#176; C with E3D v6 and thermocouple.  With E3D Lite v6 more than 15 types including PLA, ABS, Laywoo-D, HIPS, carbon fiber reinforced PLA, flexible filament, conductive PLA |
 
 </div>
 
