@@ -16,10 +16,11 @@ Pull requests are welcome and encouraged.
 #### Roaddog Labs Bart Pro XL Specs ####
 
 
-|Feature|Bart Pro XL|
-|Base and Frame|Full melamine frame, printed parts, latest design for maximum stability and print speeds|
+| Feature | Bart Pro XL |
+|---------|-------------|
+| Base and Frame | Full melamine frame, printed parts, latest design for maximum stability and print speeds |
  
-</div>
+
 
 <div class="row display">
   <div class="large-3 columns">Build Envelope</div>
