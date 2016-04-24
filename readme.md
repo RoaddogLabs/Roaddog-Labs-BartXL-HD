@@ -13,18 +13,11 @@ and works well, it's still very much a work in progress.  A set of pre release d
 
 Pull requests are welcome and encouraged.
 
-== Roaddog Labs Bart Pro XL Specs ==
+#### Roaddog Labs Bart Pro XL Specs ####
 
 
-<div class="row display">
-  <div class="large-3 columns">Feature</div>
-  <div class="large-8 columns">'''Bart Pro XL'''</div>
- 
-</div>
-
-<div class="row display">
-  <div class="large-3 columns">Base and Frame</div>
-  <div class="large-8 columns">Full melamine frame, printed parts, latest design for maximum stability and print speeds</div>
+|Feature|Bart Pro XL|
+|Base and Frame|Full melamine frame, printed parts, latest design for maximum stability and print speeds|
  
 </div>
 
