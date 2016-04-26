@@ -11,9 +11,9 @@
 - [x] fix thermal runaway false trigger on bed #38
      - [x] removed trigger
      - [ ] fully fix runaway issue
-- [ ] resolve #42 #43
+- [x] resolve #42 #43
 
 - [ ] print and validate latest 2nd gen extruder
-- [ ] set extruder body flat on bed for printing
+- [x] set extruder body flat on bed for printing
 
 
