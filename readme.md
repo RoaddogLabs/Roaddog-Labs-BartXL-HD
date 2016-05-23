@@ -1,10 +1,16 @@
 ## Roaddog Labs Bart Pro XL
 ## 
-This is a Roaddog Bart XL 3D printer. This machine is a larger build
+This is the Roaddog Bart XL 3D printer. This machine is a larger build
 based on a mashup implemented from several designs including original
-designs.  Original designs from Roaddog Labs Ltd are released per the
-Open Source Hardware Association guidelines for open source hardware at
-http://www.oshwa.org/definition/.
+designs.  
+
+####This machine is available in two variants
+
+#####Bart Pro XL-LC is a lower cost version and a good upgrade platform for those with a Prusa i3 or Rework i3 variant to upgrade to a better frame and larger build area.
+
+The Bart Pro XL-LC version is frozen.  There will be no more work on this version but feel free to fork it and do with it as you wish.
+
+#####Bart Pro XL-HD uses high performance lead screws, high temp hot end suitable to 400*C, auto bed probe (bed leveling), silcone bed heater, MIC 6 precision aluminum print surface with PEI.
 
 ### This is a pre release version
 ### 
@@ -40,6 +46,11 @@ Pull requests are welcome and encouraged.
 | Optional Wireless and Print Server | User installed optional printing over Wifi and dedicated print server using Octoprint and a Raspberry Pi |
 
 ####License and Credits
+
+Original designs from Roaddog Labs Ltd are released per the
+Open Source Hardware Association guidelines for open source hardware at
+http://www.oshwa.org/definition/.
+
 Material specific to the Bart components and documentation that is not
 derived from other sources are released under the Creative Commons
 Attribution 4.0 International license.
