@@ -3,20 +3,21 @@
 
 Cut the following frame parts
 
-2 x bart pro xl-lc side
-2 x bart pro xl-lc z motor mount
-2 x bart pro xl-lc z motor support
-2 x bart pro xl-lc z top rod stop
-2 x bart pro xl-lc y idler bearing mount
-2 x bart pro xl-lc y belt holder
+*2 x bart pro xl-lc side
+*2 x bart pro xl-lc z motor mount
+*2 x bart pro xl-lc z motor support
+*2 x bart pro xl-lc z top rod stop
+*2 x bart pro xl-lc y idler bearing mount
+*2 x bart pro xl-lc y belt holder
 
-1 x bart pro xl-lc base 
-1 x bart pro xl-lc print bed
-1 x bart pro xl-lc top cross
-1 x bart pro xl-lc y endstop bracket
-1 x bart pro xl-lc z frame
-1 x bart xl-lc end front
-1 x bart xl-lc end rear
+*1 x bart pro xl-lc base 
+*1 x bart pro xl-lc print bed
+*1 x bart pro xl-lc top cross
+*1 x bart pro xl-lc y endstop bracket
+*1 x bart pro xl-lc z frame
+*1 x bart xl-lc end front
+*1 x bart xl-lc end rear
+
 
 
 
