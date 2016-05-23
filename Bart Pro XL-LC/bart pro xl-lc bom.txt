@@ -1,0 +1,111 @@
+Bill of Materials
+Roaddog Labs Ltd Bart Pro XL-LC
+file released under Creative Commons
+Attribution 4.0 International license.
+
+Frame
+
+2 x 24" x18" 1/4" melamine, two sides laminated
+
+Rods
+
+2 x M5-.8 x 300 mm threaded rod, Z axis drive screws
+
+2 x M8 x 320 mm smooth rod
+
+2 x M8 x 350 mm smooth rod 
+
+2 x M8 x 370 mm smooth rod 
+
+Bearings
+
+11 x LM8UU linear bearings
+3 x 624ZZ bearings
+
+
+Printed Parts
+
+2 x Y clips
+1 x Y clip/end stop bracket
+1 x Y motor bracket
+4 x Y bearing mounts (each mount is two pieces)
+
+1 x X carriage
+1 x x endstop block
+1 x X end motor
+1 x X end idler
+1 x X idler
+
+1 x extruder body 
+1 x extruder idler
+1 x hot end mounting clip
+1 x fan duct
+
+1 x z endstop bracket
+
+Misc Hardware
+
+1 x M7 hobbed drive gear, filament drive gear
+2 x GT2 pulley, 20 teeth, 5 mm diameter mounting hole
+2 meters GT2 belt
+
+4 x rubber feet
+
+2 x 3/16" ID poly tubing, 1" long each, coupler tubing 
+
+1 x 214 x 200 borosilicate glass print bed
+
+4 x small binder clips for glass bed
+
+4 bed springs (get final specs)
+2 extruder springs (get final specs)
+
+Fasteners 
+
+50 x 6-32 square nut, frame
+50 x 6-32 x 5/8" pan head machine screws, frame
+4 x 6-32 x 1/2" pan head machine screws, frame
+4 x #6 flat washer, frame
+
+20 x  M3 x 10 mm shcs, motor mounts, endstop screws
+25 x  M3 x 12 mm shcs, motor/Z endstop bracket mounting, feet mounting
+05 x  M3 x 14 mm shcs,
+05 x  M3 x 16 mm shcs,
+08 x  M3 x 25 mm shcs,
+06 x  M3 x 30 mm shcs, 
+02 x  M3 x 35 mm shcs,
+02 x  M3 x 50 mm shcs,
+
+55 x  M3 washer
+30 x  M3 hex nut
+12 x  M3 nyloc nut
+
+07 x  M4 x 20 shcs extruder mount, extruder idler
+01 x  M4 x 30 shcs Y idler bearing
+
+06 x  M4 hex nut
+10 x  M4 flat washer
+03 x  M4 nyloc nut
+
+02 x  M5 nut
+
+4 x nylon spacers (snap fit does not fit iduino/Arduino pcb mounting hole)
+
+Electronics
+
+1 x Mini Rambo control board
+
+1 x 40x40x10 24 volt axial fan
+
+5 x NEMA 17 stepper motors, recommend 76 oz/in holding torque
+
+1 x 400 watt, 24 volt PSU
+
+1 x kapton tape heating pad
+
+
+
+
+
+
+
