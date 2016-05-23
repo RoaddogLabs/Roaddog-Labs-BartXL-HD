@@ -6,11 +6,11 @@ designs.
 
 ####This machine is available in two variants
 
-#####Bart Pro XL-LC is a lower cost version and a good upgrade platform for those with a Prusa i3 or Rework i3 variant to upgrade to a better frame and larger build area.
+#####Bart Pro XL-LC is a lower cost version and a good upgrade platform for those with a Prusa i3 or Rework i3 variant to upgrade to a better frame and larger build area.  The LC variant uses M8 X and Z smooth rods and M5 threaded rod for the Z drive screw.  The LC uses Rework i3 printed parts.
 
 The Bart Pro XL-LC version is frozen.  There will be no more work on this version but feel free to fork it and do with it as you wish.
 
-#####Bart Pro XL-HD uses high performance lead screws, high temp hot end suitable to 400*C, auto bed probe (bed leveling), silcone bed heater, MIC 6 precision aluminum print surface with PEI.
+#####Bart Pro XL-HD uses high performance lead screws, M10 precision shaft on all axis, high temp hot end suitable to 400*C, auto bed probe (bed leveling), silcone bed heater, MIC 6 precision aluminum print surface with PEI.
 
 ### This is a pre release version
 ### 
