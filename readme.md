@@ -8,7 +8,7 @@ designs.
 
 #####Bart Pro XL-LC is a lower cost version and a good upgrade platform for those with a Prusa i3 or Rework i3 variant to upgrade to a better frame and larger build area.  The LC variant uses M8 X and Z smooth rods and M5 threaded rod for the Z drive screw.  The LC uses Rework i3 printed parts.
 
-The Bart Pro XL-LC version is frozen.  There will be no more work on this version but feel free to fork it and do with it as you wish.
+The Bart Pro XL-LC version is frozen.  The current version is the Bart Pro XL-HD.  There will be no more work on this version but feel free to fork it and do with it as you wish.
 
 #####Bart Pro XL-HD uses high performance lead screws, M10 precision shaft on all axis, high temp hot end suitable to 400*C, auto bed probe (bed leveling), silcone bed heater, MIC 6 precision aluminum print surface with PEI.
 
@@ -19,10 +19,10 @@ and works well, it's still very much a work in progress.  A set of pre release d
 
 Pull requests are welcome and encouraged.
 
-#### Roaddog Labs Bart Pro XL Specs ####
+#### Roaddog Labs Bart Pro XL-HD Specs ####
 
 
-| Feature | Bart Pro XL |
+| Feature | Bart Pro XL-HD |
 |---------|-------------|
 | Base and Frame | Full melamine frame, printed parts, latest design for maximum stability and print speeds |
 | Build Envelope | 360 mm x 240 mm x 200 mm |
@@ -33,7 +33,7 @@ Pull requests are welcome and encouraged.
 | Nozzle Size | .4 mm standard, user upgradable to a variety of sizes |
 | Heated Bed | Polyimide heater, 24 volt with aluminum heat spreader |
 | Print Surface |0.125" 6061-T6 aluminum |
-| Extruder | Bart Direct Drive MK7, low profile, reduced weight and mass |
+| Extruder | Bart Direct Drive MK7, low profile, reduced weight and mass, optional E3D Titan or Bondtech QR extruder |
 | Bed Tilt Compensation | Belt tilt compensation, also called auto bed leveling or tramming via an inductive sensor |
 |Electronics | Mini Rambo configured for Bart Pro XL with Marlin firmware |
 | Power Supply | 24 volts, 400 watts compact form factor |
