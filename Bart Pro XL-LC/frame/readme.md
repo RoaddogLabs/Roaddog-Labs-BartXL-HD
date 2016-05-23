@@ -20,6 +20,7 @@ Cut the following frame parts
 
 
 
+
 ####License and Credits
 Material specific to the Bart components and documentation that is not
 derived from other sources are released under the Creative Commons
