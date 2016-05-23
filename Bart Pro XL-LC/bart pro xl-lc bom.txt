@@ -11,15 +11,16 @@ Rods
 
 2 x M5-.8 x 300 mm threaded rod, Z axis drive screws
 
-2 x M8 x 320 mm smooth rod
-
-2 x M8 x 350 mm smooth rod 
+2 x M8 x 318 mm smooth rod
 
 2 x M8 x 370 mm smooth rod 
 
+2 x M10 x 511 mm smooth rod 
+
 Bearings
 
-11 x LM8UU linear bearings
+4 x LM10UU linear bearings
+8 x LM8UU linear bearings
 3 x 624ZZ bearings
 
 
