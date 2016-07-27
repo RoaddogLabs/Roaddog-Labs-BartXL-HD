@@ -58,8 +58,12 @@ Misc Hardware
 
 4 x small binder clips for glass bed
 
-4 bed springs (get final specs)
-2 extruder springs (get final specs)
+4 x bed springs (get final specs)
+2 x extruder springs (get final specs)
+
+1 x aluminum print bed sheet .125 thick, 360 mm x 240 mm 6061-T6 
+
+1 x borosilicate glass, 3 mm thick 360 mm x 240 mm 
 
 Fasteners 
 
@@ -95,6 +99,8 @@ Fasteners
 Electronics
 
 1 x Mini Rambo control board
+
+1 x E3D v6 hot end kit
 
 1 x 40x40x10 24 volt axial fan
 
